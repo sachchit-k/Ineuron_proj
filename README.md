@@ -1,7 +1,3 @@
-# multi-page-app
-
-# Watch the tutorial video
-[How to Make a Multi-Page Web App | Streamlit #16](https://youtu.be/nSw96qUbK9o)
 
 
 Launch the web app:
